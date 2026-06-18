@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to StedFast accounts prod APIs"
   contactDetails:
     name: "Jisageo"
-    email: "jisageorge@stedfast.com"
+    email: "{cipher}12a63e74752c2883271f9071d84e7afb534c374d0aa764659369474e3e654b5306141a50a217fa5c13591dba1c733ed8"
   onCallSupport:
     -(111) 222-333
     -(111) 222-555
