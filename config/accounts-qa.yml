@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to StedFast accounts QA APIs"
+  contactDetails:
+    name: "Jisageo"
+    email: "qa@stedfast.com"
+  onCallSupport:
+    -(111) 222-333
+    -(111) 222-555

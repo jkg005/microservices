@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to StedFast loans prod APIs"
+  contactDetails:
+    name: "Jisageo"
+    email: "qa@stedfast.com"
+  onCallSupport:
+    -(111) 222-564
+    -(111) 222-999

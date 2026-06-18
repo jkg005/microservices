@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to StedFast Cards APIs"
+  contactDetails:
+    name: "Jisageo"
+    email: "jisageorge@stedfast.com"
+  onCallSupport:
+    -(111) 222-444
+    -(111) 222-667
