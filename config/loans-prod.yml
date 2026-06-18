@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to StedFast loans prod APIs"
+  message: "Welcome to StedFast loans production APIs"
   contactDetails:
     name: "Jisageo"
     email: "qa@stedfast.com"
