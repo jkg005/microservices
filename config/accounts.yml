@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to StedFast accounts APIs"
+  message: "Welcome to StedFast accounts APIs - we are in docker now"
   contactDetails:
     name: "Jisageo"
     email: "jisageorge@stedfast.com"
